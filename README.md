@@ -75,10 +75,4 @@ TaskLinx/
 ├── creds/                  # Token storage (auto-created)
 ├── start.sh               # Quick start script
 └── README.md              # This file
-```
 
-**Start TaskLinx**: `./start.sh` or follow the manual steps above.
-
----
-
-*Built with ❤️ using OpenAI GPT-4, Google APIs, FastAPI, and React* 
