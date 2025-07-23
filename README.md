@@ -2,8 +2,6 @@
 
 **Transform your natural language into powerful automations for emails and calendar events using OpenAI GPT-4 and Google APIs.**
 
-[![TaskLinx Demo](https://img.shields.io/badge/Demo-Live-brightgreen)](http://localhost:3000)
-[![Backend API](https://img.shields.io/badge/API-Running-blue)](http://localhost:8000)
 [![AI Powered](https://img.shields.io/badge/AI-GPT--4-purple)](https://openai.com)
 
 ## ✨ Features
@@ -263,8 +261,7 @@ This project is open source and available under the MIT License.
 
 **TaskLinx is now fully configured and ready to use!**
 
-- ✅ Backend API running on port 8000
-- ✅ Frontend app running on port 3000  
+- ✅ Backend and frontend servers ready
 - ✅ Google OAuth2 configured
 - ✅ OpenAI GPT-4 integrated
 - ✅ Gmail & Calendar APIs ready
